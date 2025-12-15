@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/imagem_fundo.png" alt="PPCDQ – Indicadores Ambientais" width="90%">
-</p>
-
-
 # PPCDQ – Indicadores Ambientais
 
 > Status: projeto em andamento
