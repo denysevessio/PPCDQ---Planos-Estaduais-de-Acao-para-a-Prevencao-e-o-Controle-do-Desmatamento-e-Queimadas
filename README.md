@@ -1,0 +1,1 @@
+# PPCDQ---Planos-Estaduais-de-Acao-para-a-Prevencao-e-o-Controle-do-Desmatamento-e-Queimadas
